@@ -2,7 +2,7 @@
 
 <head>
 
-<h1 align="center"><b><u> BANKING DOST</u></b> </h1>
+<h1 align="center"><b><u> BANKING </u></b> </h1>
 </head>
 
 <body>
