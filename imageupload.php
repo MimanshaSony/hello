@@ -22,7 +22,7 @@ echo "File sucessfully upload";
 }
 else
 {
-echo "Error.Please try again";
+echo "Error.Please try once again";
 }
 }
 ?>
