@@ -1,13 +1,13 @@
 <html>
 <head>
 <h1>
-	<u><center>Change Password</u>
+	<u><center>Change my Password</u>
 </h1>
 </head>
 <body>
 	<form action="" method="post">
 		<table align="center" border="1" width="40%" margin="top-50%">
-			<tr><td> Username:</td>
+			<tr><td> Usernfghame:</td>
 				<td> <input type="text" name="username" placeholder="enter your username" required="required" />
 					</td>
 			</tr>
